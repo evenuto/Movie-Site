@@ -12,4 +12,4 @@ Download fresh_tomatoes.py, movies.py, and movie_initializer.py.
 Run Module from movie_initializer.py in IDLE
 
 ## Acknowledgments
-Original fresh_tomatoes.py was contributed by Udacity Full Stack Nano Degree Team. 
+Original fresh_tomatoes.py was contributed by [Udacity Full Stack Nano Degree Team](https://github.com/udacity/ud036_StarterCode)
